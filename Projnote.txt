@@ -1,0 +1,16 @@
+## adpter阅读
+
+#### 2023.5.17
+
+阅读[allocator.h](https://github.com/Alinshans/MyTinySTL/blob/master/MyTinySTL/allocator.h) 源代码部分，学习了泛型编程模板类的基本使用方式。C++中的模板类包括函数模板与类模板，主要应用于泛型编程。
+
+1. 函数模板的使用
+
+   ```c++
+   
+   ```
+
+   
+
+配置vscode开发c++开发环境
+
